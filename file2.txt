@@ -1,2 +1,4 @@
 Anothere file
 harish is good and master of c lanaguage
+and
+3 line of the file2 in file1
